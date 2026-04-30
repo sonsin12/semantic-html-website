@@ -25,7 +25,7 @@ The layout is clean and well-organized without using CSS or JavaScript.
 ## 🌐 Live Demo
 
 You can view the website here:
-https://sonsin12.github.io/semantic-HTML-websit/
+https://sonsin12.github.io/semantic-html-website/
 
 ## 🔗 Project Reference
 
