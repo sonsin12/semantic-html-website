@@ -1,2 +1,37 @@
-# semantic-HTML-websit
-Semantic HTML CV Website A personal CV website built using semantic HTML elements such as &lt;header>, &lt;main>, &lt;section>, and &lt;footer>. The project focuses on clean structure, readability, and proper content organization without using CSS or JavaScript.
+# Semantic HTML Website
+
+This project is a simple website built using only HTML, focusing on semantic elements and proper structure.
+
+## 📌 About the Project
+
+The goal of this project is to practice and demonstrate the use of semantic HTML elements such as:
+
+* `<header>`
+* `<nav>`
+* `<main>`
+* `<section>`
+* `<article>`
+* `<footer>`
+
+The layout is clean and well-organized without using CSS or JavaScript.
+
+## 🚀 Features
+
+* Semantic HTML structure
+* Clear content organization
+* Sections for Skills, Projects, Experience, Education, and Contact
+* Easy to read and beginner-friendly
+
+## 🌐 Live Demo
+
+You can view the website here:
+https://your-username.github.io/repository-name/
+
+## 🔗 Project Reference
+
+This project is based on the following roadmap task:
+https://roadmap.sh/projects/basic-html-website
+
+## 👨‍💻 Author
+
+Yacine
